@@ -1,0 +1,701 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\restaurantweb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\restaurantweb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_base.scss",
+      "PackagePath": "staticwebassets\\css\\_base.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\css\\_blog-details.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\css\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_blog.scss",
+      "PackagePath": "staticwebassets\\css\\_blog.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\css\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_checkout.scss",
+      "PackagePath": "staticwebassets\\css\\_checkout.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_contact.scss",
+      "PackagePath": "staticwebassets\\css\\_contact.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\_footer.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\_header.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_hero.scss",
+      "PackagePath": "staticwebassets\\css\\_hero.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_home-page.scss",
+      "PackagePath": "staticwebassets\\css\\_home-page.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_responsive.scss",
+      "PackagePath": "staticwebassets\\css\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\css\\_shop-details.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\css\\_shop-grid.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\css\\_shoping-cart.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\css\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\_variable.scss",
+      "PackagePath": "staticwebassets\\css\\_variable.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\nice-select.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\css_boot\\style.css",
+      "PackagePath": "staticwebassets\\css\\css_boot\\style.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\lib\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\lib\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\lib\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\language.png",
+      "PackagePath": "staticwebassets\\lib\\img\\language.png"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\lib\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\At_School\\restaurant\\restaurantweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.restaurantweb.props",
+      "PackagePath": "build\\restaurantweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.restaurantweb.props",
+      "PackagePath": "buildMultiTargeting\\restaurantweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.restaurantweb.props",
+      "PackagePath": "buildTransitive\\restaurantweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.restaurantweb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
